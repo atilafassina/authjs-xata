@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://atila-r3s7jg.eu-west-1.xata.sh/db/authjs-xata",
+  "codegen": {
+    "output": "lib/xata.codegen.server.ts"
+  }
+}
