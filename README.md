@@ -1,4 +1,4 @@
-![Link to youtube for: Authenticate your Next.js app and have your user db on Xata with a 1-liner](/cover-xata-auth-next.png)
+[![Link to youtube for: Authenticate your Next.js app and have your user db on Xata with a 1-liner](/cover-xata-auth-next.png)]((https://xata.io/blog/xata-authjs-nextjs))
 
 📼 [Authenticate your Next.js app and have your user db on Xata with a 1-liner](https://youtu.be/DHg2SaYdCPw)
 
